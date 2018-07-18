@@ -1,0 +1,104 @@
+[
+  {
+    "categorie": "2013",
+    "values": [
+      {
+        "value": 3,
+        "state": "created"
+      },
+      {
+        "value": 4,
+        "state": "executing"
+      },
+      {
+        "value": 12,
+        "state": "graded"
+      }
+    ]
+  },
+  {
+    "categorie": "2014",
+    "values": [
+      {
+        "value": 1,
+        "state": "created"
+      },
+      {
+        "value": 21,
+        "state": "executing"
+      },
+      {
+        "value": 13,
+        "state": "graded"
+      }
+    ]
+  },
+  {
+    "categorie": "2015",
+    "values": [
+      {
+        "value": 3,
+        "state": "created"
+      },
+      {
+        "value": 22,
+        "state": "executing"
+      },
+      {
+        "value": 6,
+        "state": "graded"
+      }
+    ]
+  },
+  {
+    "categorie": "2016",
+    "values": [
+      {
+        "value": 12,
+        "state": "created"
+      },
+      {
+        "value": 7,
+        "state": "executing"
+      },
+      {
+        "value": 18,
+        "state": "graded"
+      }
+    ]
+  },
+  {
+    "categorie": "2017",
+    "values": [
+      {
+        "value": 6,
+        "state": "created"
+      },
+      {
+        "value": 15,
+        "state": "executing"
+      },
+      {
+        "value": 9,
+        "state": "graded"
+      }
+    ]
+  },
+  {
+    "categorie": "2018",
+    "values": [
+      {
+        "value": 6,
+        "state": "created"
+      },
+      {
+        "value": 6,
+        "state": "executing"
+      },
+      {
+        "value": 6,
+        "state": "graded"
+      }
+    ]
+  }
+]

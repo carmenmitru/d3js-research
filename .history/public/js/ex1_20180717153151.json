@@ -1,0 +1,104 @@
+[
+  {
+    "categorie": "2013",
+    "values": [
+      {
+        "value": 3,
+        "state": "Not at all"
+      },
+      {
+        "value": 4,
+        "state": "Not very much"
+      },
+      {
+        "value": 12,
+        "state": "Medium"
+      }
+    ]
+  },
+  {
+    "categorie": "2014",
+    "values": [
+      {
+        "value": 1,
+        "state": "Not at all"
+      },
+      {
+        "value": 21,
+        "state": "Not very much"
+      },
+      {
+        "value": 13,
+        "state": "Medium"
+      }
+    ]
+  },
+  {
+    "categorie": "2015",
+    "values": [
+      {
+        "value": 3,
+        "state": "Not at all"
+      },
+      {
+        "value": 22,
+        "state": "Not very much"
+      },
+      {
+        "value": 6,
+        "state": "Medium"
+      }
+    ]
+  },
+  {
+    "categorie": "2016",
+    "values": [
+      {
+        "value": 12,
+        "state": "Not at all"
+      },
+      {
+        "value": 7,
+        "state": "Not very much"
+      },
+      {
+        "value": 18,
+        "state": "Medium"
+      }
+    ]
+  },
+  {
+    "categorie": "2017",
+    "values": [
+      {
+        "value": 6,
+        "state": "Not at all"
+      },
+      {
+        "value": 15,
+        "state": "Not very much"
+      },
+      {
+        "value": 9,
+        "state": "Medium"
+      }
+    ]
+  },
+  {
+    "categorie": "2018",
+    "values": [
+      {
+        "value": 6,
+        "state": "Not at all"
+      },
+      {
+        "value": 6,
+        "state": "Not very much"
+      },
+      {
+        "value": 6,
+        "state": "Medium"
+      }
+    ]
+  }
+]
